@@ -29,10 +29,6 @@ Multiple weapon types: Pistol, Shotgun (spread shot), Rocket Launcher (360° exp
 Basic UI: health bar
 
 
-Controls
-
-InputAction WASD / Arrow keysMoveLeft clickShootRight clickin progressShiftin progress
-
 Architecture notes
 
 
